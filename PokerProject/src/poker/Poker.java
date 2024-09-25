@@ -1,4 +1,6 @@
-/*package poker;
+package poker;
+
+// submitted by shuo
 
 public class Poker {
 	// Precondition: A hand of n cards have been sorted by card number.
@@ -26,7 +28,7 @@ public class Poker {
 				i++;
 			}
 		}
-		if (count == 2)s
+		if (count == 2)
 			return true;
 		else
 			return false;
@@ -38,4 +40,4 @@ public class Poker {
 	}
 }
 // end of Poker.java
-*/
+
